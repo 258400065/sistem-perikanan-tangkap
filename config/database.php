@@ -5,7 +5,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root'); // Ganti dengan username database cPanel
 define('DB_PASS', ''); // Ganti dengan password database cPanel
-define('DB_NAME', 'perikanan_tangkap'); // Nama database
+define('DB_NAME', 'schema'); // Nama database
 
 // Koneksi Database
 try {
